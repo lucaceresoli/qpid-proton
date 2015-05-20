@@ -135,4 +135,3 @@ If you are new to Go then these are a good place to start:
 - [Effective Go](http://golang.org/doc/effective_go.html)
 
 Then look at the tools and library docs at <http://golang.org> as you need them.
-

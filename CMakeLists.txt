@@ -141,6 +141,7 @@ if (BUILD_JAVA)
 endif()
 
 add_subdirectory(proton-c)
+add_subdirectory(examples)
 
 install (FILES LICENSE README.md TODO
          DESTINATION ${PROTON_SHARE})
