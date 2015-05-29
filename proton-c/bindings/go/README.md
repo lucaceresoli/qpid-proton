@@ -1,15 +1,19 @@
 # *EXPERIMENTAL* Go binding for proton
 
-This is the beginning of a [Go](http://golang.org) binding for proton.
+This is an *experimental* [Go](http://golang.org) binding for proton.
+The API is subject to change but there is enough to get a good idea of where it is headed.
 
-This work is in early *experimental* stages, *everything* may change in future.
-Comments and contributions are strongly encouraged, this experiment is public so
-early feedback can guide development.
+Feedback is strongly encouraged:
 
 - Email <proton@qpid.apache.org>
 - Create issues <https://issues.apache.org/jira/browse/PROTON>, attach patches to an issue.
 
-There are working [examples](../examples/go/README.md)
+The package documentation is available at: <http://godoc.org/qpid.apache.org/proton/go>
+
+See the [examples](../../../examples/go/README.md) for working examples and
+practical instructions on how to get started.
+
+The rest of this page discusses the high-level goals and design issues.
 
 ## Goals
 
